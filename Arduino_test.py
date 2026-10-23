@@ -1,4 +1,9 @@
-import serial as srl
+
+
+#Just for testing my coding structures on arduino and python before implementing it on the main project
+
+
+import serial as srl 
 import time
 
 PORT = 'COM13'

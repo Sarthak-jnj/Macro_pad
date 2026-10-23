@@ -1,0 +1,1 @@
+#Going through the structure design in my notebook before starting
